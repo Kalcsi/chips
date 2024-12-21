@@ -1,0 +1,19 @@
+#chris{
+    color: darkgrey;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    background-color: antiquewhite;
+}
+#kösz{
+    width: 200px;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 30px;
+    border: solid 10px white;
+    border-radius: 10px;
+}
+img{
+    border-radius: 20px;
+}
